@@ -1,0 +1,61 @@
+*{
+  margin:0;
+  padding:0;
+  
+}
+
+
+.image{
+  position:relative;
+  height:100vh;
+  width:100%;
+}
+
+.image2{
+  position:relative;
+  background-size: cover;
+  height:100vh;
+  width:100%;
+  
+}
+
+
+.content{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  position: absolute;
+  margin-top: 50vh;
+  width:100%;
+
+  
+}
+.container{
+  overflow: hidden;
+}
+
+
+
+.content span.imgtxt{
+  color:white;
+  background-color: #333;
+  padding:1rem;
+  font-size: 1rem;
+letter-spacing: 10px;
+border-radius: 2vh;
+
+
+}
+
+h3{
+  letter-spacing: 6px;
+  font: 1.3rem;
+  text-align: center;
+
+}
+
+.txtbox{
+  text-align: center;
+  padding: 3rem 1rem;
+  text-align: justify;
+}
