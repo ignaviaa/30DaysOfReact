@@ -25,7 +25,7 @@ pnpm dev
 
 After that you will find a link in the terminal refer to that and you are good to go!✨
 
-The Result 📌 :
+# The Result 📌 :
 
 
 https://github.com/ignaviaa/30DaysOfReact/assets/75758307/00d9a461-2e75-4742-b6cf-4a480759af64
